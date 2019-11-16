@@ -19,6 +19,7 @@
 		CE78820E237CE91400809653 /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE78820D237CE91400809653 /* ParstagramUITests.swift */; };
 		CE78821F237DC7CF00809653 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE78821E237DC7CF00809653 /* LoginViewController.swift */; };
 		CE788221237DC93600809653 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE788220237DC93600809653 /* FeedViewController.swift */; };
+		CEB7818D237FBCEA00B2A8C4 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB7818C237FBCEA00B2A8C4 /* PostCell.swift */; };
 		CED43359237E7D8300A9BEE2 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED43358237E7D8300A9BEE2 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +65,7 @@
 		CE78820F237CE91400809653 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE78821E237DC7CF00809653 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		CE788220237DC93600809653 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		CEB7818C237FBCEA00B2A8C4 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		CED43358237E7D8300A9BEE2 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -194,6 +196,7 @@
 				CE78821E237DC7CF00809653 /* LoginViewController.swift */,
 				CE788220237DC93600809653 /* FeedViewController.swift */,
 				CED43358237E7D8300A9BEE2 /* CameraViewController.swift */,
+				CEB7818C237FBCEA00B2A8C4 /* PostCell.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 				CE7881EC237CE91200809653 /* AppDelegate.swift in Sources */,
 				CE788221237DC93600809653 /* FeedViewController.swift in Sources */,
 				CE7881EE237CE91200809653 /* SceneDelegate.swift in Sources */,
+				CEB7818D237FBCEA00B2A8C4 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
